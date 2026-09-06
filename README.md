@@ -30,7 +30,7 @@ Follow the interactive menu to:
 4. Exit
 
 ## Requirements
-- Python 3.6+
+- Python 3
 - No external dependencies (uses standard library only)
 
 ## License
